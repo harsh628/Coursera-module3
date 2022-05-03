@@ -1,3 +1,5 @@
+Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
+Link:https://harsh628.github.io/Coursera-module3/
 Woo-hoo! MORE CODING!!! Exciting! :-)
 
 Time to complete: About 1 hour or less.
